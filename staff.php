@@ -25,7 +25,7 @@ include("db.php");
                 <li class="list"><a href="contact.php" class="links">contact</a></li>
                 <li class="list"><a href="register.php" class="links">register</a></li>
                 <li class="list"><a href="about.php" class="links">about</a></li>
-                <li class="list"><a href="home.php" class="linkgs">home</a></li>
+                <li class="list"><a href="home.php" class="links">home</a></li>
             </ul>
         </div>
         <!--Navigation bar ends here-->

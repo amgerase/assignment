@@ -38,6 +38,7 @@ body{
     padding-left: 5px;
     text-transform: uppercase;
     font-size: 25px;
+    color: blue;
 }
 ul{
     list-style: none;
@@ -65,7 +66,10 @@ ul{
     grid-row-end: 4;
     grid-column-start: 1;
     grid-column-end: 3;
-    background-image: url("images/images.jpg");
+}
+.main table caption{
+    color: blue;
+    text-transform: uppercase;
 }
 .footer{
     grid-column: 1 / span 3;

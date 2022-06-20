@@ -34,12 +34,14 @@ form{
 }
 .inputs label{
     text-align: left;
+    font-size: 12px;
 }
 .inputs input{
     height: 20px;
     width: 95%;
     border-radius: 5px;
-    color: rgb(255, 2, 2);
+    font-weight: bold;
+    color: black;
 }
 .inputs select {
     height: 20px;
